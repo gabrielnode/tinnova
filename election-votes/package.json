@@ -1,0 +1,17 @@
+{
+  "name": "election-votes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.16",
+    "typescript": "^4.9.4"
+  }
+}
